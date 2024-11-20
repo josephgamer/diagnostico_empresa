@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8daefcf0-9b1a-4949-89de-ca447052f7dd" name="Changes" comment="Se logra imprimir las respuestas y sacar la nota">
+      <change afterPath="$PROJECT_DIR$/images/Captura desde 2024-11-19 21-08-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Captura desde 2024-11-19 21-08-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preguntas_contestadas.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +79,7 @@
     "Spring Boot.SecureCodeAssessment.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/esteban/Escritorio/General/capacitacion/diagnostico_empresa/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,6 +91,11 @@
 }]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
   </component>
   <component name="RunManager" selected="Spring Boot.SecureCodeAssessment">
     <configuration name="/home/esteban/Escritorio/General/capacitacion/diagnostico_empresa/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -143,7 +152,8 @@
       <workItem from="1731983793603" duration="621000" />
       <workItem from="1731985635443" duration="3749000" />
       <workItem from="1731989638604" duration="111000" />
-      <workItem from="1732063885941" duration="7832000" />
+      <workItem from="1732063885941" duration="8086000" />
+      <workItem from="1732144562925" duration="343000" />
     </task>
     <task id="LOCAL-00001" summary="Diagnostico">
       <option name="closed" value="true" />
@@ -169,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732071531726</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Se logra imprimir las respuestas y sacar la nota">
+      <option name="closed" value="true" />
+      <created>1732071994870</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732071994870</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
