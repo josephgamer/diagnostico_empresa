@@ -4,39 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8daefcf0-9b1a-4949-89de-ca447052f7dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/diagnostico_empresa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/themes/my-theme/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/themes/my-theme/theme.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/views/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/codestrux/sca/AppShell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/codestrux/sca/SecureCodeAssessment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/codestrux/sca/models/Prueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/codestrux/sca/views/Group1View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/codestrux/sca/views/Group2View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/codestrux/sca/views/Group3View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/codestrux/sca/views/Group4View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/codestrux/sca/views/Group5View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/codestrux/sca/views/MainView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tech/codestrux/sca/views/ResultView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tech/codestrux/sca/SecureCodeAssessmentTests.java" afterDir="false" />
+    <list default="true" id="8daefcf0-9b1a-4949-89de-ca447052f7dd" name="Changes" comment="Diagnostico 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/codestrux/sca/views/ResultView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/codestrux/sca/views/ResultView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,29 +62,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle./home/esteban/Escritorio/General/capacitacion/diagnostico_empresa/build.gradle.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Build diagnostico_empresa.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.secure-code-assessment [bootTestRun].executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Spring Boot.SecureCodeAssessment.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Attach to process.pid 7472.executor": "ProcessAttachDebug",
+    "Gradle./home/esteban/Escritorio/General/capacitacion/diagnostico_empresa/build.gradle.executor": "Run",
+    "Gradle.Build diagnostico_empresa.executor": "Run",
+    "Gradle.secure-code-assessment [bootTestRun].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.SecureCodeAssessment.executor": "Debug",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RunManager" selected="Spring Boot.SecureCodeAssessment">
     <configuration name="/home/esteban/Escritorio/General/capacitacion/diagnostico_empresa/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -169,10 +143,66 @@
       <workItem from="1731980359768" duration="922000" />
       <workItem from="1731983793603" duration="621000" />
       <workItem from="1731985635443" duration="3749000" />
+      <workItem from="1731989638604" duration="111000" />
+      <workItem from="1732063885941" duration="6634000" />
     </task>
+    <task id="LOCAL-00001" summary="Diagnostico">
+      <option name="closed" value="true" />
+      <created>1731989705326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731989705326</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Diagnostico 2">
+      <option name="closed" value="true" />
+      <created>1731989741526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731989741526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Diagnostico" />
+    <MESSAGE value="Diagnostico 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Diagnostico 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tech/codestrux/sca/views/ResultView.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
   </component>
 </project>
